@@ -26,10 +26,9 @@ since, epsilon (ε) is in the starting variable S it is allowed.\
 
 ## Rules
 **Method 01:**
-
-![](Screenshot%202025-06-12%20at%2015.07.33.png)
-
-![](Screenshot%202025-06-12%20at%2015.08.35.png)
+Screenshot 2025-06-12 at 15.07.33.png
+**Method 02:**
+Screenshot 2025-06-12 at 15.08.35.png
 
 ## Finite Automata
 
@@ -79,15 +78,15 @@ q₀ → Initial States
 
 ## YT Notes
 
-![](Screenshot%202025-06-16%20at%2001.03.28.png)
+Screenshot 2025-06-16 at 01.03.28.png
 
 **Question No. I**
 
-![](Screenshot%202025-06-16%20at%2001.16.43.png)
+Screenshot 2025-06-16 at 01.16.43.png
 
 **Question No. II**
 
-![](Screenshot%202025-06-16%20at%2001.25.59.png)
+Screenshot 2025-06-16 at 01.25.59.png
 
 ==Question’s II transition table.==
 
